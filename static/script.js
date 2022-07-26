@@ -7,7 +7,7 @@ $(document).ready(function(){
 
 
 
-    //  Escribe un evento, cuando se hace clic en el botón eviar.
+    //  Escribe un evento, cuando se hace clic en el botón enviar.
     $('').click(function(){
 
         //  Obtén el valor del texto, del área de texto, con el método 'val()'.
